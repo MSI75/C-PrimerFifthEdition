@@ -1,7 +1,8 @@
 #include <iostream>
 int main()
 {
-    int sum = 0, i = 0;
+    float sum = 0, i = 0;
+
     std::cout << "Enter the number : " << std::endl;
 
     // read until end-of-file, calculating a running total of all values read
