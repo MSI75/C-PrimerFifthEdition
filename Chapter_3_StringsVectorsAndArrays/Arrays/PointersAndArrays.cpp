@@ -52,8 +52,8 @@ int main()
     //     ++b;
     // }
 
-    // int ia[] = {0, 2, 4, 6, 18}; // array with 5 elements of type int
-    // int last = *(ia + 4);        // ok: initializes last to 18, the value of ia[4]
+    int ia[] = {0, 2, 4, 6, 18}; // array with 5 elements of type int
+    int last = *(ia + 4);        // ok: initializes last to 18, the value of ia[4]
 
     int ia[] = {0, 2, 4, 6, 8}; // array with 5 elements of type int
 
